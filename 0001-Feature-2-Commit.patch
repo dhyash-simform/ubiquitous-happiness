@@ -1,0 +1,23 @@
+From 0681aeabf35f073d2b881a60b407145571bc4a25 Mon Sep 17 00:00:00 2001
+From: Yash Dhrangdhariya <yash.dhrangdhar@simformsolutions.com>
+Date: Tue, 21 Feb 2023 09:37:22 +0530
+Subject: [PATCH] Feature 2 Commit
+
+---
+ feature.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/feature.txt b/feature.txt
+index e5e3727..7d64f71 100644
+--- a/feature.txt
++++ b/feature.txt
+@@ -1 +1,3 @@
+-// This is feature 1.
+\ No newline at end of file
++// This is feature 1.
++
++//This is feature 2.
+\ No newline at end of file
+-- 
+2.37.1 (Apple Git-137.1)
+
